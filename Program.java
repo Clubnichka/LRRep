@@ -1,5 +1,5 @@
 public class Program{
     public static void main(String[] args){
-        System.out.println("1 commit 1 branch");
+        System.out.println("1 commit 2 branch");
     }
 }
